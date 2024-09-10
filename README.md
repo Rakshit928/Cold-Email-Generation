@@ -1,7 +1,7 @@
 # Cold-Email-Generation
 The "Cold Email Generator" automates cold email creation by leveraging Generative AI (GenAI). This advanced system uses AI models like GPT to generate personalized email content tailored to specific recipients and industries.
 
-# architecture for Generating Cold Emails
+# Architecture for Generating Cold Emails
 <img src="architecture.png" alt="Alt text" width="desired-width" height="desired-height">
 
 # Features
